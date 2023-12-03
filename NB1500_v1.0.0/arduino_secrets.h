@@ -1,0 +1,1 @@
+#define SECRET_PINNUMBER     "" //Falls PIN vorhanden bitte eingeben, sonst leer lassen.
